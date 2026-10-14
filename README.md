@@ -47,6 +47,11 @@ The system helps organizations reduce manual work, maintain employee records eff
 - SQLite3
 - Datetime
 
+## 🌐 Live Demo
+
+[Click here to view Dayflow]
+https://human-resource-mnagement-system-dy4qomfhnyp5xn4kjiwweu.streamlit.app/
+
 ## 📂 Project Structure
 
 ```text
@@ -55,3 +60,25 @@ Human-Resource-Mnagement-System/
 ├── app.py
 ├── dayflow.db
 └── README.md
+```
+
+## ⚙️ How to Run the Project
+
+1. Install Python on your system.
+2. Install the required libraries:
+
+   ```bash
+   pip install streamlit pandas
+   ```
+
+3. Run the application:
+
+   ```bash
+   streamlit run app.py
+   ```
+
+4. Open the local URL displayed in the terminal.
+
+## 👨‍💻 Project Name
+
+**Dayflow - Human Resource Management System**
